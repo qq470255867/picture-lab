@@ -2,6 +2,9 @@
 
   <div class="wrapper">
 
+
+
+
     <parallax
       class="page-header header-filter"
       :style="headerStyle"
